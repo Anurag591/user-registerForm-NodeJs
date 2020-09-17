@@ -26,11 +26,15 @@ This app was originally generated on Thu Sep 17 2020 15:20:35 GMT+0530 (IST) usi
 6. Once done run sails lift and open the browser and type localhost:1337
 7. A register form will open enter the details and submit.
 8. First user will always be a ADMIN and the rest User will be USER.
-9 I have attached the screenshot of the same.
+9. I have attached the screenshot of the same.
 
 # Screenshot
 
 form screenshot 
+https://github.com/Anurag591/user-registerForm-NodeJs/issues/1#issue-703750041
+
+mongodb table Data
+https://github.com/Anurag591/user-registerForm-NodeJs/issues/2#issue-703750484
 
 
 <!-- Internally, Sails used [`sails-generate@1.16.13`](https://github.com/balderdashy/sails-generate/tree/v1.16.13/lib/core-generators/new). -->
